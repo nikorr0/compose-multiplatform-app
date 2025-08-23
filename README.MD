@@ -18,12 +18,17 @@ The application communicates with a RESTful API built using the Laravel framewor
 ## Application Showcase
 
 **The main page of the application**
+
 ![Main page](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/main_page.png)
 
+
 **View a post**
+
 ![View a post](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/view_card.png)
 
+
 **Create a post**
+
 ![Create a card](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/create_card.png)
 
 ---
@@ -37,7 +42,9 @@ Run the desktop application: `./gradlew :composeApp:run`
 Run desktop UI tests: `./gradlew :composeApp:jvmTest`
 
 If you use IntelliJ IDEA, add a run configuration as shown below:
+
 ![Run configuration](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/run_configuration.png)
+
 
 ### Android
 To run the application on android device/emulator:  
