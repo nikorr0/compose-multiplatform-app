@@ -19,17 +19,21 @@ The application communicates with a RESTful API built using the Laravel framewor
 
 **The main page of the application**
 
-![Main page](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/main_page.png)
-
+<p align="center">
+ <img src="https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/main_page.png" style="width:40%; align-self:center;">
+</p>
 
 **View a post**
 
-![View a post](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/view_card.png)
-
+<p align="center">
+ <img src="https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/view_card.png" style="width:40%; align-self:center;">
+</p>
 
 **Create a post**
 
-![Create a card](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/create_card.png)
+<p align="center">
+ <img src="https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/create_card.png" style="width:40%; align-self:center;">
+</p>
 
 ---
 
@@ -43,8 +47,9 @@ Run desktop UI tests: `./gradlew :composeApp:jvmTest`
 
 If you use IntelliJ IDEA, add a run configuration as shown below:
 
-![Run configuration](https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/run_configuration.png)
-
+<p align="center">
+ <img src="https://github.com/nikorr0/compose-multiplatform-app/blob/main/screenshots/run_configuration.png" style="width:80%; align-self:center;">
+</p>
 
 ### Android
 To run the application on android device/emulator:  
